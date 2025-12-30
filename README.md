@@ -1,0 +1,1 @@
+# MySQL-Golden-Configuration
